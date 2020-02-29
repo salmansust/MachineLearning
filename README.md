@@ -160,6 +160,7 @@
 - [Reinforcement Learning: An Introduction, Second Edition (Draft)](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html).
 - [Deep Learning (Goodfellow)](http://www.deeplearningbook.org).
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
+- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 
 ## Datasets:
 - [Datasets for Machine Learning](https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/edit#gid=0) Various datasets in a google sheets document.
